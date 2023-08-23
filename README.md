@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-sys&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-sys" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently practicing **Full stack web development and server-side applications**
 
 - 📫 How to reach me **mohanraj123.mrl@gmail.com**
 
