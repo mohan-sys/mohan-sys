@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohan Raj</h1>
-<h3 align="center">I'm a exuberant Full-Stack developer</h3>
+<h3 align="center">I'm an aspiring Software and Data Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-sys&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-sys" /> </p>
 
