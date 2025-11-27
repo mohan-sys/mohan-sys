@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently practicing **Full stack web development and server-side applications**
 
-- 📫 How to reach me **mohanraj123.mrl@gmail.com**
+- 📫 How to reach me **mohanrajloganathan9@gmail.com**
 
 - ⚡ Fun fact **coffee is my secret**
 
