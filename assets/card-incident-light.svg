@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="330" viewBox="0 0 580 330" role="img" aria-label="Incident Platform">
+<style>
+      .flow { stroke-dasharray: 3 7; animation: flow 1.4s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -20; } }
+      @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+    </style>
+<rect x=".5" y=".5" width="579" height="329" rx="14" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="32" y="50" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1" fill="#B8650F" text-anchor="start" >02</text>
+<text x="64" y="50" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="1.6" fill="#5A5D63" text-anchor="start" >SERVERLESS</text>
+<text x="550" y="51" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#9A9890" text-anchor="end" >↗</text>
+<text x="30" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="650" letter-spacing="-1.2" fill="#16171A" text-anchor="start" >Incident Platform</text>
+<text x="548" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="650" letter-spacing="-1.2" fill="#B8650F" text-anchor="end" >−70%</text>
+<text x="548" y="126" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="0" fill="#9A9890" text-anchor="end" >time to ack</text>
+<text x="32" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#5A5D63" text-anchor="start" >On-call paging with tiered escalation,</text>
+<text x="32" y="186" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#5A5D63" text-anchor="start" >SMS and email alerts, MTTA analytics.</text>
+<line x1="32" y1="236" x2="548" y2="236" stroke="#E6E3DC"/>
+<line class="flow" x1="32" y1="236" x2="548" y2="236" stroke="#B8650F" stroke-width="1.6" stroke-linecap="round" opacity=".85"/>
+<rect x="32.0" y="221" width="69.4" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="66.7" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >API GW</text>
+<rect x="151.6" y="221" width="69.4" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="186.2" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >ingest</text>
+<rect x="271.1" y="221" width="45.7" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="294.0" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >SQS</text>
+<rect x="367.0" y="221" width="85.2" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="409.6" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >escalate</text>
+<rect x="502.3" y="221" width="45.7" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="525.2" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >SNS</text>
+<rect x="32.0" y="272" width="112.0" height="32" rx="16" fill="#B8650F18"/>
+<text x="88.0" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >TypeScript</text>
+<rect x="154.0" y="272" width="77.6" height="32" rx="16" fill="#B8650F18"/>
+<text x="192.8" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >Lambda</text>
+<rect x="241.6" y="272" width="94.8" height="32" rx="16" fill="#B8650F18"/>
+<text x="289.0" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >DynamoDB</text>
+<rect x="346.4" y="272" width="69.0" height="32" rx="16" fill="#B8650F18"/>
+<text x="380.9" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >React</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="330" viewBox="0 0 580 330" role="img" aria-label="PulseAPI">
+<style>
+      .flow { stroke-dasharray: 3 7; animation: flow 1.4s linear infinite; }
+      @keyframes flow { to { stroke-dashoffset: -20; } }
+      @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
+    </style>
+<rect x=".5" y=".5" width="579" height="329" rx="14" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="32" y="50" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="1" fill="#B8650F" text-anchor="start" >01</text>
+<text x="64" y="50" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="1.6" fill="#5A5D63" text-anchor="start" >DISTRIBUTED SYSTEMS</text>
+<text x="550" y="51" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#9A9890" text-anchor="end" >↗</text>
+<text x="30" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="650" letter-spacing="-1.2" fill="#16171A" text-anchor="start" >PulseAPI</text>
+<text x="548" y="102" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="650" letter-spacing="-1.2" fill="#B8650F" text-anchor="end" >4</text>
+<text x="548" y="126" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="0" fill="#9A9890" text-anchor="end" >ECS services</text>
+<text x="32" y="160" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#5A5D63" text-anchor="start" >Multi-tenant API platform with keys,</text>
+<text x="32" y="186" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" letter-spacing="0" fill="#5A5D63" text-anchor="start" >metered usage and async notifications.</text>
+<line x1="32" y1="236" x2="548" y2="236" stroke="#E6E3DC"/>
+<line class="flow" x1="32" y1="236" x2="548" y2="236" stroke="#B8650F" stroke-width="1.6" stroke-linecap="round" opacity=".85"/>
+<rect x="32.0" y="221" width="45.7" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="54.9" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >ALB</text>
+<rect x="116.6" y="221" width="53.6" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="143.4" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >auth</text>
+<rect x="209.1" y="221" width="53.6" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="235.9" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >core</text>
+<rect x="301.5" y="221" width="45.7" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="324.4" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >SNS</text>
+<rect x="386.1" y="221" width="45.7" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="409.0" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >SQS</text>
+<rect x="470.7" y="221" width="77.3" height="30" rx="7" fill="#FFFFFF" stroke="#E6E3DC"/>
+<text x="509.3" y="240.5" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0" fill="#5A5D63" text-anchor="middle" >workers</text>
+<rect x="32.0" y="272" width="86.2" height="32" rx="16" fill="#B8650F18"/>
+<text x="75.1" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >Java 17</text>
+<rect x="128.2" y="272" width="137.8" height="32" rx="16" fill="#B8650F18"/>
+<text x="197.1" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >Spring Boot 3</text>
+<rect x="276.0" y="272" width="103.4" height="32" rx="16" fill="#B8650F18"/>
+<text x="327.7" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >Terraform</text>
+<rect x="389.4" y="272" width="51.8" height="32" rx="16" fill="#B8650F18"/>
+<text x="415.3" y="293" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="0" fill="#16171A" text-anchor="middle" >AWS</text>
+</svg>

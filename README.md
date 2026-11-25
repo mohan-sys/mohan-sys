@@ -1,25 +1,75 @@
-<h1 align="center">Hi 👋, I'm Mohan Raj</h1>
-<h3 align="center">I'm an aspiring Software and Data Engineer</h3>
+<a href="https://mohan-raj-portfolio.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img alt="Mohan Raj, Software Engineer" src="assets/header-light.svg" width="100%">
+  </picture>
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-sys&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-sys" /> </p>
+<br>
 
-- 🌱 I’m currently practicing **Full stack web development and server-side applications**
+I'm a software engineer in the UK, recently started in a full-time role. Most of my work happens on the backend: services, the queues between them, and the infrastructure underneath.
 
-- 📫 How to reach me **mohanrajloganathan9@gmail.com**
+Outside work I rebuild systems I want to understand properly. So far that's a multi-tenant API platform based on how Stripe and Twilio work, a serverless pager that escalates through on-call tiers, and data pipelines that land clean, partitioned data in cloud storage.
 
-- ⚡ Fun fact **coffee is my secret**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohan-raj-9b981b1a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohan-raj-9b981b1a0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohan-sys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohan-sys" height="30" width="40" /></a>
+### Selected work
+
+<p>
+  <a href="https://github.com/mohan-sys/multi-tenant-saas">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-pulseapi-dark.svg">
+      <img alt="PulseAPI: multi-tenant API platform" src="assets/card-pulseapi-light.svg" width="49%">
+    </picture>
+  </a>
+  <a href="https://incident-platform-omega.vercel.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/card-incident-dark.svg">
+      <img alt="Incident Platform: serverless incident management" src="assets/card-incident-light.svg" width="49%">
+    </picture>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+**PulseAPI.** Four Spring Boot services behind an ALB on ECS Fargate. Tenants sign up, get API keys, and every request is metered. Usage and notification events fan out through SNS to SQS, so the workers scale on their own. Everything is provisioned in Terraform. [Source →](https://github.com/mohan-sys/multi-tenant-saas)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohan-sys&show_icons=true&locale=en&layout=compact" alt="mohan-sys" /></p>
+**Incident Platform.** Alerts come in through API Gateway, land in DynamoDB and queue for an escalation engine that pages each on-call tier by SMS and email until someone acknowledges. Mean time to acknowledge dropped by 70%. [Live demo →](https://incident-platform-omega.vercel.app) · [Source →](https://github.com/mohan-sys/incident-platform)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohan-sys&show_icons=true&locale=en" alt="mohan-sys" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-sys&" alt="mohan-sys" /></p>
+### Recently pushed
+
+<!-- recent:start -->
+| Project | What it is | Stack | Last push |
+|:--|:--|:--|--:|
+| [**3D Portfolio**](https://github.com/mohan-sys/personal_3D_portfolio) | Interactive portfolio in React Three Fiber and GSAP | `JavaScript` | Aug 2026 |
+| [**ETL Pipeline**](https://github.com/mohan-sys/storypoints-data-pipeline) | Chunked extract, clean and partitioned load to GCS | `Python` | Sep 2025 |
+| [**Crossword**](https://github.com/mohan-sys/mohans_crossword) | Playable crossword in the browser, built with React | `JavaScript` | Jul 2025 |
+| [**Song Popularity Model**](https://github.com/mohan-sys/spotify_popularity_pred) | Predicts how popular a track will be from Spotify data | `Python` | Feb 2024 |
+| [**Genre Classifier**](https://github.com/mohan-sys/spotify_genre_pred) | Classifies a track's genre from Spotify data | `Python` | Feb 2024 |
+<!-- recent:end -->
+
+<br>
+
+### Toolbox
+
+<table>
+  <tr><td><sub>LANGUAGES</sub></td><td>Java · TypeScript · Python · SQL</td></tr>
+  <tr><td><sub>BACKEND</sub></td><td>Spring Boot · Spring Security · JPA / Hibernate · Node.js · REST</td></tr>
+  <tr><td><sub>CLOUD</sub></td><td>AWS: ECS Fargate, Lambda, API Gateway, SQS, SNS, DynamoDB, RDS, Cognito, CloudFront</td></tr>
+  <tr><td><sub>INFRA</sub></td><td>Terraform · AWS SAM · Docker · Kubernetes + Helm · GitHub Actions</td></tr>
+  <tr><td><sub>DATA</sub></td><td>pandas · ETL pipelines · Google Cloud Storage · PostgreSQL · MySQL</td></tr>
+  <tr><td><sub>FRONTEND</sub></td><td>React · Vite · Tailwind · Three.js</td></tr>
+</table>
+
+<br>
+
+### Elsewhere
+
+[Portfolio](https://mohan-raj-portfolio.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/mohan-raj-9b981b1a0) &nbsp;·&nbsp; [mohanrajloganathan9@gmail.com](mailto:mohanrajloganathan9@gmail.com)
+
+<br>
+
+<!-- updated:start -->
+<sub>Runs on coffee &nbsp;·&nbsp; synced from the GitHub API 25 Nov 2026</sub>
+<!-- updated:end -->
